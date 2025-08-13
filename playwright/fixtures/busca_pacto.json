@@ -1,0 +1,6 @@
+{
+    "termoBusca": "Pacto Soluções",
+    "payloadXSS": "Pacto Soluções<script>alert(1)</script>",
+    "baseUrl": "https://br.yahoo.com/"
+  }
+  
